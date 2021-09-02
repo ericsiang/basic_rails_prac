@@ -1,24 +1,4 @@
-# README
+# Rails 基礎練習
+透過
+[Rails 實戰聖經練習](https://ihower.tw/rails/index.html)的教學一步一步慢慢練習，加油!!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
